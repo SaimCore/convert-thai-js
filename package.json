@@ -1,5 +1,5 @@
 {
-  "name": "convert-thai-js",
+  "name": "convert-thai",
   "version": "1.2.2",
   "description": "A package to convert dates and numbers to Thai format",
   "scripts": {
@@ -33,11 +33,14 @@
     "บาท"
   ],
   "author": "Purin Pintakhiew",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SaimCore/convert-thai-js/issues"
   },
   "homepage": "https://github.com/SaimCore/convert-thai-js#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@types/node": "^20.14.5",
     "ts-loader": "^9.5.1",

@@ -1,4 +1,4 @@
-# convert-thai
+# convert-thai-js
 This package is used for converting date and number data into Thai format. (แพ็คเกจนี้ใช้สำหรับแปลงข้อมูลวันที่และตัวเลขเป็นรูปแบบภาษาไทย)
 
 [![npm license](https://img.shields.io/npm/l/convert-thai)](https://www.npmjs.com/package/convert-thai)
